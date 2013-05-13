@@ -1,4 +1,0 @@
-astanalotus
-===========
-
-"LOTUS" Thai SPA
